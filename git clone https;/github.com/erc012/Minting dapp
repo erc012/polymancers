@@ -1,0 +1,12 @@
+git clone https:/erc012/erc012.github.io
+
+cd erc012.github.io
+
+echo "polymancers" > index.html
+
+git add --all
+
+git commit -m "Initial commit"
+
+git push -u origin main
+
