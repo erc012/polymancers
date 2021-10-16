@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x336Eb339e7BBC420F8Ea388EB34C4fd2BE17b8A6",
+  "SCAN_LINK": "https://polygonscan.com/address/0x336Eb339e7BBC420F8Ea388EB34C4fd2BE17b8A6",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Polymancers",
+  "SYMBOL": "PMCR",
+  "MAX_SUPPLY": 666,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0.0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/polymancers",
+  "SHOW_BACKGROUND": true
+}
